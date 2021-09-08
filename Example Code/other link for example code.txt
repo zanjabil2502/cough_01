@@ -1,0 +1,15 @@
+https://www.analyticsvidhya.com/blog/2021/06/how-to-detect-covid19-cough-from-mel-spectrogram-using-convolutional-neural-network/
+
+https://stanford-cs329s.github.io/reports/ml-production-system-for-covid-detection/
+
+https://www.kaggle.com/jarfo1/mel-spectrogram-covid
+https://www.kaggle.com/mercade/covid-19-eda
+https://www.kaggle.com/jarfo1/vggish-covid
+https://www.kaggle.com/jarfo1/pase-covid
+https://www.kaggle.com/jarfo1/wav2vec2-covid
+
+https://www.kaggle.com/himanshu007121/covid-19-cough-classification
+https://www.kaggle.com/digvijayyadav/cough-analysis-with-mobilenet
+https://www.kaggle.com/icrybaby/audio-processing-covid-cough-analysis
+https://www.kaggle.com/newra008/cough-sound
+
