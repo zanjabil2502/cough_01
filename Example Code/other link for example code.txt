@@ -13,3 +13,4 @@ https://www.kaggle.com/digvijayyadav/cough-analysis-with-mobilenet
 https://www.kaggle.com/icrybaby/audio-processing-covid-cough-analysis
 https://www.kaggle.com/newra008/cough-sound
 
+https://www.kaggle.com/praveengovi/coronhack-respiratory-sound-eda-part-1
