@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.wav
+*.DS_Store
+*.json
+*.cpython-36
+*.pyc
+*.sh
